@@ -5,5 +5,3 @@ Dodaje now¹ funkcje1()
 
 Dodaje funkcje2() z poziomu galezi2
 
-
-

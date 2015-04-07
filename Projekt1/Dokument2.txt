@@ -1,1 +1,3 @@
-Dodaje dokument z poziomu galezi1
+Dodaje dokument z poziomu galezi1.
+
+Dodaje now¹ funkcje1()

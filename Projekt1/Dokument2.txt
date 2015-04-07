@@ -1,1 +1,3 @@
 Dodaje dokument z poziomu galezi1
+
+Dodaje funkcje1() z poziomu galezi2
